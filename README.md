@@ -11,4 +11,5 @@
 
  
 # External Sources of Info
-- https://www.reddit.com/r/geocaching/comments/en9ryv/whats_in_your_digital_caching_bag_a_collaborative/
+- [General Resources](https://www.reddit.com/r/geocaching/comments/en9ryv/whats_in_your_digital_caching_bag_a_collaborative/)
+- [Giant PDF of Codes](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
