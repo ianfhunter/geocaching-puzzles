@@ -1,3 +1,7 @@
+# Overview
+
+A centralized place for me to gather geocaching puzzle solving information. Hosting it on git allows it to be extended by anyone on the internet, so if you want to contribute, go right ahead.
+
 # Finding the shape of the puzzle
 
 **15 missing values**
