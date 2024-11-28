@@ -11,3 +11,5 @@ A scrabble set consists of:
 - 2 B, C, F, H, M, P, V, W, and Y tiles
 - 1 J, K, Q, X and Z tile
 - 2 Blank tiles
+
+Notably Scrabble has 15 Columns and 15 Rows. (Same amount of values as a set of Coordinate)
