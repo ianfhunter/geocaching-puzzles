@@ -24,6 +24,7 @@ so we can be reasonably certain that the base coordinates can be reused.
 # External Sources of Info
 - [General Resources](https://www.reddit.com/r/geocaching/comments/en9ryv/whats_in_your_digital_caching_bag_a_collaborative/)
 - [Giant PDF of Codes](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
+- [More cyphers](https://www.gagb.org.uk/puzzles.php#gsc.tab=0)
 
 ## Tools
 - [CacheSleuth](https://www.cachesleuth.com/codes/) - Auto-Decoder
